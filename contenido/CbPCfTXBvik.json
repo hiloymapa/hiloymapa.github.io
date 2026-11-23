@@ -1,0 +1,1241 @@
+{
+ "nota": "Lo genera «node estudio.mjs web <episodio>» en el estudio. No lo edites a mano: se sobrescribe.",
+ "videoId": "CbPCfTXBvik",
+ "episodio": "db-cooper-secuestro",
+ "titulo": "D. B. Cooper: los billetes que un niño desenterró en 1980",
+ "duracion": 531,
+ "lugares": [
+  {
+   "id": "portland",
+   "texto": "Portland",
+   "lon": -122.68,
+   "lat": 45.52
+  },
+  {
+   "id": "seattle",
+   "texto": "Seattle",
+   "lon": -122.33,
+   "lat": 47.61
+  },
+  {
+   "id": "reno",
+   "texto": "Reno",
+   "lon": -119.81,
+   "lat": 39.53
+  }
+ ],
+ "shorts": [
+  "nyyEOJHbJME",
+  "kTlhC4sdJQ0"
+ ],
+ "fuentes": [
+  "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+  "https://www.nature.com/articles/s41598-020-70015-z",
+  "https://archives.fbi.gov/archives/news/stories/2009/march/in-search-of-d.b.-cooper",
+  "https://archives.fbi.gov/archives/news/stories/2007/december/dbcooper_123107",
+  "https://www.fbi.gov/contact-us/field-offices/seattle/news/press-releases/update-on-investigation-of-1971-hijacking-by-d.b.-cooper",
+  "https://www.fbi.gov/history/artifacts/d-b-cooper-plane-ticket",
+  "https://www.historylink.org/file/23059",
+  "https://www.latimes.com/archives/la-xpm-1986-05-22-mn-6995-story.html",
+  "https://www.seattletimes.com/seattle-news/law-justice/case-closed-fbi-no-longer-looking-for-db-cooper/",
+  "https://www.nbcnews.com/id/wbna23889269",
+  "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+  "https://www.citizensleuths.com/tena-bar-money-find/",
+  "https://www.citizensleuths.com/palmer-report/",
+  "https://www.citizensleuths.com/rubber-band-analysis/",
+  "https://en.wikipedia.org/wiki/D._B._Cooper"
+ ],
+ "datosVerificados": 70,
+ "comprobaciones": [
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "Estos billetes son la única prueba confirmada del secuestro de D. B. Cooper encontrada fuera del avión.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El dinero del Columbia es «la única prueba física CONFIRMADA» hallada fuera del avión; en noviembre de 1978 un cazador encontró una placa de instrucciones de la escalera trasera de un 727 dentro de la ruta del vuelo."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-96%3A212-212",
+     "dice": "Comunicado del FBI (17-1-1979): reconoce el hallazgo de la placa en el condado de Cowlitz, «similar» a las del avión secuestrado y dentro de la zona del salto."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A030-030",
+     "dice": "AP, 1979: el sheriff de Cowlitz la llama «la primera prueba tangible probable» del caso y dice que a la placa le faltaba al avión dos días después."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 11.9,
+   "texto": "Los desenterró un niño, ocho años después, en una playa.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "El 10 de febrero de 1980, Brian Ingram, de ocho años, encontró los billetes en la arena de Tena Bar."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "El 10-2-1980, Brian Ingram, de ocho años, encontró los fajos en la playa de Tena Bar; el dinero se había visto por última vez el 24-11-1971."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 11.9,
+   "texto": "Y para llegar allí desde donde buscaban a Cooper, el río tendría que haberlos llevado corriente arriba.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "La primera teoría del FBI situaba a Cooper en el lago Merwin, en el río Lewis, pero el Lewis entra en el Columbia aguas abajo de donde apareció el dinero."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/parts/Cooper-Part-43/pages/219",
+     "dice": "Seattle P-I, 15-2-1980: el agente Ken Moore ve improbable que el dinero subiera desde el Lewis con las corrientes de marea."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 45.5,
+   "texto": "Portland, veinticuatro de noviembre de mil novecientos setenta y uno. Un hombre compra en efectivo un billete solo de ida a Seattle, a nombre de Dan Cooper.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "La tarde del 24-11-1971, un hombre que se hacía llamar Dan Cooper pagó en efectivo un billete de ida del vuelo 305 de Portland a Seattle."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "En el mostrador de Northwest en Portland compró en efectivo un billete de ida y puso «Dan Cooper» como nombre."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 45.5,
+   "texto": "Lo de D. B. fue un error de la prensa.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Lo de «D. B.» fue al parecer un mito creado por la prensa."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El periodista James Long, del Oregon Journal, anotó «D. B. Cooper», UPI repitió el error y el nombre se quedó."
+    }
+   ]
+  },
+  {
+   "beat": "b06",
+   "t": 62,
+   "texto": "Es el vuelo trescientos cinco de Northwest Orient. Poco después del despegue, Cooper pasa una nota a una azafata.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Vuelo 305 de Northwest Orient; poco después de las tres de la tarde entregó a la azafata una nota que decía que llevaba una bomba."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Poco después del despegue entregó una nota a la azafata Florence Schaffner."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 72.8,
+   "texto": "Dice que lleva una bomba en el maletín. Lo abre y le enseña cables y unos cilindros rojos.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Abrió el maletín y le dejó ver un amasijo de cables y barras de color rojo."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Schaffner vio una batería unida con cables a dos filas de cuatro cilindros rojos."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 72.8,
+   "texto": "Exige doscientos mil dólares y cuatro paracaídas.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Exigía cuatro paracaídas y doscientos mil dólares en billetes de veinte."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Pidió doscientos mil dólares, dos paracaídas delanteros y dos de espalda."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 89,
+   "texto": "En tierra, el rescate se prepara en diez mil billetes de veinte dólares.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El rescate eran diez mil billetes de veinte dólares sin marcar, del Seattle First National Bank."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-53%3A089-089",
+     "dice": "Seattle Times, 24-3-1972: los números de serie de los 10.000 billetes de veinte se enviaron a bancos y comercios."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 89,
+   "texto": "Antes de entregarlos, se microfilman sus números de serie.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El FBI fotografió el dinero en microfilm."
+    },
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Los números de serie se registraron en microfilm antes de que Cooper recibiera el dinero."
+    }
+   ]
+  },
+  {
+   "beat": "b09",
+   "t": 102.9,
+   "texto": "En Seattle, Cooper cambia a los pasajeros por el dinero y los paracaídas, y ordena despegar de nuevo, rumbo a México.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Cambió a los 36 pasajeros por el dinero y los paracaídas, retuvo a parte de la tripulación y ordenó rumbo a Ciudad de México."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Tras liberar a los pasajeros en Seattle, ordenó un segundo vuelo a Ciudad de México."
+    }
+   ]
+  },
+  {
+   "beat": "b10",
+   "t": 113.5,
+   "texto": "Pide volar despacio y bajo, con el tren fuera y la cabina sin presurizar. Repostarán en Reno.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Pidió unos cien nudos, como mucho diez mil pies, tren fuera, flaps a quince grados y cabina sin presurizar; la escala en Reno la acordaron Cooper y la tripulación cuando el copiloto le advirtió de la falta de autonomía."
+    },
+    {
+     "url": "https://www.abc.net.au/news/2021-11-24/db-cooper-hijacking-mystery-50-years-on/100631582",
+     "dice": "Las instrucciones eran volar bajo, con el tren fuera, flaps a quince grados y la escalera trasera bajada."
+    }
+   ]
+  },
+  {
+   "beat": "b11",
+   "t": 123.5,
+   "texto": "La azafata Tina Mucklow es la última que lo ve. Según contó, él se estaba atando a la cintura algo que parecía la bolsa del dinero.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Al cerrar la cortina vio a Cooper atándose a la cintura lo que parecía la bolsa del dinero; fue la última persona que lo vio."
+    },
+    {
+     "url": "https://www.historylink.org/file/1997",
+     "dice": "Al girarse para correr la cortina lo vio atándose el saco del dinero a la cintura; fue el último contacto visual conocido."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 137.4,
+   "texto": "Poco después de las ocho de la noche, Cooper baja la escalera trasera con el avión en vuelo. Nadie lo ve saltar.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Entre Seattle y Reno, poco después de las ocho de la tarde, saltó por la parte trasera del avión."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Hacia las 20:13 la cola dio un tirón hacia arriba; los pilotos de los F-106 no vieron saltar a nadie."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 137.4,
+   "texto": "En Reno, el avión aterriza con la escalera bajada. Cooper no está a bordo.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "A las 23:02 aterrizó en Reno con la escalera aún desplegada; el comandante comprobó que Cooper ya no estaba a bordo."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A030-030",
+     "dice": "AP, 1979: cuando el avión aterrizó en Reno, la rampa trasera estaba bajada y Cooper no estaba."
+    }
+   ]
+  },
+  {
+   "beat": "b14",
+   "t": 154.6,
+   "texto": "La primera estimación lo sitúa en el suroeste de Washington, en la cuenca del río Lewis. El FBI nunca fijó el punto exacto.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-95%3A279-306",
+     "dice": "Informe del FBI de Seattle: la primera zona de búsqueda (24-25 de noviembre de 1971) estaba en torno al lago Merwin y el río Lewis, entre Woodland, Amboy y Battle Ground."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Las primeras estimaciones lo situaban cerca de Ariel y del lago Merwin, en el Lewis; delimitar la zona con precisión fue difícil y se recalculó más tarde."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 169.6,
+   "texto": "En la primavera siguiente, agentes y soldados peinan la zona durante semanas. Nada.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-95%3A279-306",
+     "dice": "Informe del FBI: la batida empezó el 21-3-1972 con 218 soldados y 20 agentes, se reanudó el 8 de abril y terminó el 17-4-1972 sin hallar nada."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Agentes del FBI y unos doscientos soldados de Fort Lewis peinaron Clark y Cowlitz dieciocho días en marzo y otros dieciocho en abril."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 169.6,
+   "texto": "Los números de serie se reparten por todo el mundo. No consta que apareciera ni uno solo.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Las listas de números se enviaron a bancos, casinos y policías de todo el mundo; pese a las recompensas, no apareció ningún billete auténtico."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-78%3A390-390",
+     "dice": "Himmelsbach, en 1980: ninguno de los billetes entregados había aparecido nunca en circulación."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/parts/Cooper-Part-96/pages/285",
+     "dice": "Comunicado del FBI (12-2-1980): no se había encontrado rastro del dinero hasta el domingo 10 de febrero de 1980."
+    }
+   ]
+  },
+  {
+   "beat": "b16",
+   "t": 185.2,
+   "texto": "Domingo, diez de febrero de mil novecientos ochenta. Brian Ingram, un niño de ocho años, alisa la arena para una hoguera en Tena Bar, una playa del río Columbia.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Era domingo, 10 de febrero de 1980; Brian Ingram, de ocho años, alisaba la arena de Tena Bar para que su padre encendiera una hoguera."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/parts/Cooper-Part-96/pages/285",
+     "dice": "Comunicado del FBI: el hallazgo fue el domingo 10 de febrero de 1980, en la orilla norte del Columbia."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "Brian Ingram, de ocho años, alisaba la arena de Tena Bar, en el Columbia, cuando dio con el dinero."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 201.2,
+   "texto": "Debajo aparecen tres fajos de billetes de veinte, atados aún con gomas que se deshacen al tocarlas: dos de cien billetes y uno de noventa.",
+   "fuentes": [
+    {
+     "url": "https://www.citizensleuths.com/rubber-band-analysis/",
+     "dice": "Cita la transcripción del FBI: el dinero estaba sujeto con gomas tan viejas que se deshicieron en cuanto lo tocaron."
+    },
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Las gomas estaban intactas pero se desmoronaron."
+    },
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "El FBI confirmó dos paquetes de cien billetes de veinte y un tercero de noventa."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "Dos fajos de cien billetes de veinte y un tercero de noventa."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 201.2,
+   "texto": "Cinco mil ochocientos dólares.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "En 1980 un niño encontró un paquete de billetes de veinte dólares, cinco mil ochocientos en total."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "Dos fajos de cien billetes de veinte y un tercero de noventa: 290 billetes, cinco mil ochocientos dólares."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 218.5,
+   "texto": "Siguen en el mismo orden en que se entregaron a Cooper. El FBI los compara con el microfilm. Los números coinciden.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "El FBI identificó los billetes por los números del microfilm y vio que estaban en el mismo orden en que se entregaron en 1971."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/parts/Cooper-Part-96/pages/285",
+     "dice": "Comunicado del FBI: los números son idénticos a parte de los entregados y los billetes siguen «más o menos en el mismo orden»."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 229.9,
+   "texto": "Están a poca profundidad, sin rastro de la bolsa.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Los fajos estaban justo bajo la superficie de la arena y no había rastro de una bolsa."
+    },
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Testigo del hallazgo: «No había bolsa»."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 229.9,
+   "texto": "El FBI excava la playa: solo salen fragmentos del tamaño de una moneda.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Al excavar, el FBI encontró fragmentos del tamaño de monedas de cinco y veinticinco centavos."
+    },
+    {
+     "url": "https://www.citizensleuths.com/tena-bar-money-find/",
+     "dice": "El FBI peinó la playa en busca del resto del dinero, pero solo encontró pequeños fragmentos."
+    }
+   ]
+  },
+  {
+   "beat": "b22",
+   "t": 244.2,
+   "texto": "El río que baja de la zona del salto, el Lewis, desemboca en el Columbia río abajo de Tena Bar.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El Lewis y sus afluentes llegan al Columbia aguas abajo de Tena Bar."
+    },
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "El Lewis entra en el Columbia aguas abajo de donde se encontró el dinero."
+    }
+   ]
+  },
+  {
+   "beat": "b23",
+   "t": 262.8,
+   "texto": "Ese mismo febrero, un hidrólogo del Ejército señaló el único afluente que podría explicarlo: el Washougal, que desemboca río arriba de Tena Bar.",
+   "fuentes": [
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Un hidrólogo del Cuerpo de Ingenieros del Ejército dijo a la prensa que el Washougal era el único afluente que podría haber traído el dinero."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "Un hidrólogo del Cuerpo de Ingenieros del Ejército dijo que el Washougal era el único afluente que podría explicar cómo llegó el dinero."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El Washougal se une al Columbia aguas arriba del lugar del hallazgo."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 289.7,
+   "texto": "Ralph Himmelsbach, el agente que llevaba el caso en Portland",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A267-269",
+     "dice": "Daily News, 14-2-1980: era «un agente del FBI de Portland» que llevaba años siguiendo las pistas nuevas del caso."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-66%3A114-114",
+     "dice": "UPI, 13-2-1980: el agente que dirigía el caso Cooper desde 1971."
+    },
+    {
+     "url": "https://themountainnewswa.net/2011/09/01/the-hunt-for-db-cooper-the-resurgent-investigation-into-americas-only-unsolved-skyjacking-an-overview/",
+     "dice": "Dirigía la investigación en la oficina del FBI de Portland; la de Seattle llevaba el caso."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 289.7,
+   "texto": "la bolsa quedó junto a un arroyo, una crecida la arrastró y el río fue limando los billetes hasta dejar solo el centro",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-66%3A114-114",
+     "dice": "UPI, 13-2-1980: Himmelsbach plantea que la bolsa cayó cerca de la orilla de un arroyo, la crecida la arrastró, se rompió y el río limó los billetes «dejando la parte central»."
+    },
+    {
+     "url": "https://www.historylink.org/file/23059",
+     "dice": "Recoge la misma explicación de Himmelsbach, con la cita de la lija o la lima."
+    }
+   ]
+  },
+  {
+   "beat": "b38",
+   "t": 305.5,
+   "texto": "Hay otras teorías: que Cooper cayó al agua con el dinero esa misma noche, o que alguien lo enterró allí, quizá para despistar.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Recoge la teoría de que Cooper cayó al río en noviembre y la de que alguien enterró el dinero más tarde para despistar."
+    },
+    {
+     "url": "https://www.oregonlive.com/history/2021/11/db-cooper-at-50-push-to-solve-case-gains-steam-but-much-about-famous-skyjacking-remains-a-mystery.html",
+     "dice": "Las preguntas abiertas: si Cooper lo enterró, si flotó río abajo o si llegó con el dragado de 1974."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 321.3,
+   "texto": "Según Himmelsbach, si los fajos bajaron por el río, llegaron a la orilla en un par de años desde el secuestro; con más tiempo, las gomas se habrían deshecho.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-78%3A390-390",
+     "dice": "AP, 1980, Himmelsbach: «Llegaran como llegaran, se depositaron en un par de años tras el secuestro. Las gomas se deterioran rápido»."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Himmelsbach escribió que los fajos a la deriva habrían llegado a la orilla «en un par de años»; si no, las gomas se habrían deshecho."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 321.3,
+   "texto": "Como muy tarde, hacia mil novecientos setenta y tres.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-78%3A390-390",
+     "dice": "Himmelsbach: en un par de años tras el secuestro (noviembre de 1971)."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A267-269",
+     "dice": "Himmelsbach creía que el dinero se depositó en un par de años tras el secuestro."
+    }
+   ]
+  },
+  {
+   "beat": "b27",
+   "t": 342.9,
+   "texto": "Años después, el equipo del paleontólogo Tom Kaye probó gomas como aquellas: no duraron ni un año. Para ellos, el dinero quedó enterrado en la playa el primer año tras el secuestro.",
+   "fuentes": [
+    {
+     "url": "https://www.citizensleuths.com/rubber-band-analysis/",
+     "dice": "Con gomas del fabricante que suministraba a los bancos en 1971, enterradas o sumergidas, todas se rompieron en menos de un año; concluyen que el dinero se enterró en Tena Bar durante el primer año."
+    },
+    {
+     "url": "https://www.oregonlive.com/portland/2009/03/amateur_detectives_fish_for_db.html",
+     "dice": "Kaye, por las gomas, cree que el dinero llegó a Tena Bar mucho antes de lo pensado, probablemente poco después del salto."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Tom Kaye es paleontólogo del Burke Museum y formó parte del Cooper Research Team."
+    }
+   ]
+  },
+  {
+   "beat": "b28",
+   "t": 357.9,
+   "texto": "En mil novecientos setenta y cuatro, una draga vertió sobre Tena Bar arena del fondo del río. Hay quien cree que con ella llegaron los fajos.",
+   "fuentes": [
+    {
+     "url": "https://www.citizensleuths.com/tena-bar-money-find/",
+     "dice": "En 1974 se dragó arena del Columbia y se vertió en Tena Bar; la teoría principal sobre el dinero gira en torno a ese dragado."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-78%3A390-390",
+     "dice": "AP, 1980: el Cuerpo de Ingenieros identificó una capa de arena depositada al dragar el canal en agosto de 1974; los agentes especularon con que una bolsa pudo pasar por la draga."
+    }
+   ]
+  },
+  {
+   "beat": "b29",
+   "t": 375.1,
+   "texto": "Tras el hallazgo, un geólogo encontró bajo el dinero una capa de arcilla que atribuyó al dragado, y entre ambos, más capas de arena. Para él, el dinero llegó bastante después de mil novecientos setenta y cuatro.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A369-371",
+     "dice": "Informe FD-302 (13-2-1980): el geólogo halló una arena superior con el dinero, una arena posterior al dragado y una capa con arcilla que atribuyó «con toda probabilidad» al dragado de 1974; el dinero se depositó «más de cuatro años después»."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Leonard Palmer encontró dos capas distintas de arena entre la arcilla del dragado y la del dinero: llegó mucho después del dragado."
+    },
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A267-269",
+     "dice": "Daily News, 14-2-1980: Palmer concluyó que el dinero llegó en el último año o dos, porque estaba encima de la arcilla del dragado de 1974."
+    }
+   ]
+  },
+  {
+   "beat": "b30",
+   "t": 392.8,
+   "texto": "El equipo de Kaye también lo discutió: según ellos, la arcilla era natural, y el dinero estaba fuera del dragado.",
+   "fuentes": [
+    {
+     "url": "https://www.citizensleuths.com/palmer-report/",
+     "dice": "La erosión dejó a la vista capas de arcilla naturales en toda la playa: Palmer interpretó mal la arcilla, y el hallazgo no estaba dentro del área cubierta por el material dragado."
+    },
+    {
+     "url": "https://legalclarity.org/db-cooper-money-found-at-tena-bar-how-it-got-there/",
+     "dice": "El equipo que volvió en 2009 encontró capas de arcilla naturales continuas, lo que sugiere que la arcilla de Palmer era geológica."
+    }
+   ]
+  },
+  {
+   "beat": "b31",
+   "t": 403.6,
+   "texto": "En dos mil veinte, Kaye y un colega hallaron en un billete diatomeas",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Kaye y Mark Meltzer (Scientific Reports, 3-8-2020) encontraron diatomeas en un billete recuperado."
+    },
+    {
+     "url": "https://www.king5.com/article/news/local/scientist-uncovers-new-clues-db-cooper-ransom-money/281-86659a00-86c1-49fa-b6bf-04d6cd649318",
+     "dice": "La investigación de Kaye se publicó en Scientific Reports en agosto de 2020."
+    }
+   ]
+  },
+  {
+   "beat": "b31",
+   "t": 403.6,
+   "texto": "unas algas, y entre ellas una especie que en el Columbia abunda en mayo y junio",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Las diatomeas son el 98 % del plancton del Columbia todo el año; la que fecha el billete, Asterionella, florece en mayo y junio y casi desaparece en noviembre."
+    },
+    {
+     "url": "https://www.king5.com/article/news/local/scientist-uncovers-new-clues-db-cooper-ransom-money/281-86659a00-86c1-49fa-b6bf-04d6cd649318",
+     "dice": "Kaye: «Las diatomeas que encontramos son una especie de primavera; no florecen en noviembre»."
+    }
+   ]
+  },
+  {
+   "beat": "b32",
+   "t": 420.8,
+   "texto": "Según ellos, el billete se mojó en esa época, no en noviembre: no cayó al agua la noche del salto. Esta pista da una estación, no un año.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Los billetes no se sumergieron en noviembre, sino más bien entre mayo y junio; el hallazgo descarta que Cooper cayera al río en noviembre."
+    },
+    {
+     "url": "https://www.king5.com/article/news/local/scientist-uncovers-new-clues-db-cooper-ransom-money/281-86659a00-86c1-49fa-b6bf-04d6cd649318",
+     "dice": "Kaye: el dinero acabó en el río meses después del salto; solo hay diatomeas de una estación."
+    }
+   ]
+  },
+  {
+   "beat": "b32",
+   "t": 420.8,
+   "texto": "Y descarta, dicen, que alguien lo enterrara seco.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Encontrar diatomeas grandes descarta todas las teorías de un enterramiento humano de fajos secos."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El análisis de 2020 sugiere que los fajos no se sumergieron ni se enterraron secos en el momento del secuestro."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 437.9,
+   "texto": "Eso sí: el estudio analiza un solo billete, con un método nuevo.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Se analizó un solo billete original; los autores dicen que es la primera vez que se usa este método y que habrá que verificarlo."
+    },
+    {
+     "url": "https://www.researchgate.net/publication/343398640_Diatoms_constrain_forensic_burial_timelines_case_study_with_DB_Cooper_money",
+     "dice": "Ficha del mismo artículo, que propone las diatomeas como metodología nueva."
+    }
+   ]
+  },
+  {
+   "beat": "b37",
+   "t": 445.3,
+   "texto": "Esa teoría tampoco explica tres fajos juntos, sin bolsa y con diez billetes de menos.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "La hipótesis de los fajos a la deriva no explicaba los diez billetes que faltaban de un fajo ni por qué los tres fajos siguieron juntos."
+    },
+    {
+     "url": "https://www.kiro7.com/news/local/46-years-ago-today-boy-finds-5800-d-b-coopers-ransom-money-near-columbia-river/RYDDPLUW4BEBZNY3GJGAREXYOU/",
+     "dice": "Dos fajos de cien billetes y uno de noventa."
+    }
+   ]
+  },
+  {
+   "beat": "b39",
+   "t": 463.1,
+   "texto": "Si lo trajo la draga, el geólogo lo situó después, y según Kaye las gomas no habrían aguantado. Si cayó al agua con Cooper, las algas dicen que no: era noviembre. Y si alguien lo enterró, dicen que antes se mojó.",
+   "fuentes": [
+    {
+     "url": "https://cooper.theunsolved.net/documents/Cooper-Part-43%3A369-371",
+     "dice": "Palmer: el dinero se depositó más de cuatro años después del dragado de 1974."
+    },
+    {
+     "url": "https://www.citizensleuths.com/palmer-report/",
+     "dice": "Equipo de Kaye: en 1974 las gomas llevarían más de dos años expuestas y no habrían mantenido los fajos a través de una draga."
+    },
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "Las diatomeas descartan la caída al río en noviembre y el enterramiento de fajos secos."
+    }
+   ]
+  },
+  {
+   "beat": "b34",
+   "t": 481.2,
+   "texto": "En dos mil dieciséis, el FBI dejó de investigar activamente.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Actualización del 12-7-2016: el FBI dedica los recursos del caso a otras prioridades."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El 8-7-2016 el FBI anunció que suspendía la investigación activa."
+    }
+   ]
+  },
+  {
+   "beat": "b34",
+   "t": 481.2,
+   "texto": "Del rescate faltan más de ciento noventa y cuatro mil dólares.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+     "dice": "Rescate de doscientos mil dólares; en 1980 se recuperaron cinco mil ochocientos."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "El resto del dinero nunca se recuperó."
+    }
+   ]
+  },
+  {
+   "beat": "b36",
+   "t": 493.2,
+   "texto": "Y nadie sabe cómo llegaron a esa playa, ni qué fue del hombre que los llevaba.",
+   "fuentes": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70015-z",
+     "dice": "La nueva información no aporta ninguna teoría sobre cómo llegó el dinero a Tena Bar."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+     "dice": "Su verdadera identidad y su destino siguen siendo desconocidos."
+    }
+   ]
+  }
+ ],
+ "cronologia": [
+  {
+   "fecha": "1971-11-24",
+   "texto": "En Portland, un hombre que dice llamarse Dan Cooper sube al vuelo 305 de Northwest Orient, anuncia que lleva una bomba y exige 200.000 dólares y cuatro paracaídas.",
+   "hechos": [
+    "h01",
+    "h03",
+    "h04"
+   ]
+  },
+  {
+   "fecha": "1971-11-24",
+   "texto": "Con el rescate a bordo, baja la escalera trasera del avión en vuelo poco después de las ocho de la noche. El avión aterriza en Reno sin él.",
+   "hechos": [
+    "h07",
+    "h10",
+    "h11"
+   ]
+  },
+  {
+   "fecha": "1972",
+   "texto": "En primavera, agentes del FBI y soldados peinan durante semanas la zona del salto sin encontrar nada; los números de serie del rescate se hacen públicos.",
+   "hechos": [
+    "h17",
+    "h19"
+   ]
+  },
+  {
+   "fecha": "1974",
+   "texto": "Una draga vierte sobre Tena Bar, una playa del río Columbia, arena del fondo del río.",
+   "hechos": [
+    "h36",
+    "h55"
+   ]
+  },
+  {
+   "fecha": "1976-11",
+   "texto": "Antes de que el delito prescriba, un gran jurado de Portland acusa formalmente a «John Doe, alias Dan Cooper».",
+   "hechos": [
+    "h47"
+   ]
+  },
+  {
+   "fecha": "1980-02",
+   "texto": "El día 10, Brian Ingram, un niño de ocho años, desentierra en Tena Bar tres fajos de billetes de veinte: 5.800 dólares del rescate, según confirma el FBI con el microfilm.",
+   "hechos": [
+    "h21",
+    "h24",
+    "h25"
+   ]
+  },
+  {
+   "fecha": "1980-02",
+   "texto": "Un hidrólogo del Ejército señala el Washougal como único afluente posible, y el geólogo Leonard Palmer sitúa la llegada del dinero después del dragado de 1974.",
+   "hechos": [
+    "h30",
+    "h37",
+    "h61"
+   ]
+  },
+  {
+   "fecha": "2016-07",
+   "texto": "Tras 45 años, el FBI deja de investigar activamente el caso. Del rescate faltan más de 194.000 dólares.",
+   "hechos": [
+    "h49",
+    "h43"
+   ]
+  },
+  {
+   "fecha": "2020",
+   "texto": "Tom Kaye y Mark Meltzer publican en Scientific Reports las diatomeas halladas en un billete: sugieren que se mojó en mayo o junio, no en noviembre.",
+   "hechos": [
+    "h40",
+    "h57"
+   ]
+  }
+ ],
+ "preguntas": [
+  {
+   "pregunta": "¿Quién era D. B. Cooper?",
+   "respuesta": "Es el nombre con el que se conoce al hombre que secuestró el vuelo 305 de Northwest Orient el 24 de noviembre de 1971. Su billete estaba a nombre de Dan Cooper; lo de «D. B.» fue un error de la prensa. Nunca se le identificó: es el único secuestro aéreo documentado sin resolver de la aviación comercial.",
+   "hechos": [
+    "h01",
+    "h15",
+    "h50"
+   ]
+  },
+  {
+   "pregunta": "¿Qué se encontró en Tena Bar en 1980?",
+   "respuesta": "El 10 de febrero de 1980, Brian Ingram, de ocho años, desenterró en Tena Bar, una playa del río Columbia, tres fajos de billetes de veinte dólares atados aún con gomas: 5.800 dólares cuyos números de serie coincidían con los del rescate. Es la única prueba confirmada del secuestro hallada fuera del avión.",
+   "hechos": [
+    "h21",
+    "h23",
+    "h24",
+    "h25",
+    "h42"
+   ]
+  },
+  {
+   "pregunta": "¿Por qué sorprende que el dinero apareciera en Tena Bar?",
+   "respuesta": "El río Lewis, que drena la primera zona estimada del salto, desemboca en el Columbia río abajo de Tena Bar, así que su corriente no explica el hallazgo. Un hidrólogo del Cuerpo de Ingenieros del Ejército señaló el Washougal, que desemboca río arriba, como el único afluente que podría explicarlo.",
+   "hechos": [
+    "h16",
+    "h29",
+    "h30",
+    "h61"
+   ]
+  },
+  {
+   "pregunta": "¿Cuándo llegó el dinero de D. B. Cooper a la playa?",
+   "respuesta": "No se sabe, y las pistas no coinciden. Según el agente Ralph Himmelsbach, las gomas intactas indican que, si los fajos bajaron por el río, llegaron como muy tarde hacia 1973; el equipo de investigadores independientes de Tom Kaye concluye que el dinero quedó enterrado el primer año. El geólogo Leonard Palmer, en cambio, lo situó bastante después del dragado de 1974.",
+   "hechos": [
+    "h53",
+    "h54",
+    "h56",
+    "h59"
+   ]
+  },
+  {
+   "pregunta": "¿Qué dicen las diatomeas encontradas en los billetes?",
+   "respuesta": "En 2020, Tom Kaye y Mark Meltzer hallaron en un billete diatomeas de una especie que en el Columbia abunda en mayo y junio. Según su estudio, sugieren que el billete se mojó en esa época y no la noche del secuestro, en noviembre. Analizaron un solo billete, con un método que se usaba por primera vez.",
+   "hechos": [
+    "h40",
+    "h57",
+    "h58"
+   ]
+  },
+  {
+   "pregunta": "¿Sigue abierto el caso de D. B. Cooper?",
+   "respuesta": "En julio de 2016 el FBI dejó de investigar activamente el caso, aunque pide que se le entregue cualquier prueba física sobre los paracaídas o el dinero. Del rescate de 200.000 dólares no se han encontrado más de 194.000.",
+   "hechos": [
+    "h49",
+    "h43",
+    "h04"
+   ]
+  }
+ ],
+ "temas": [
+  "D. B. Cooper",
+  "Secuestros aéreos",
+  "FBI",
+  "Río Columbia",
+  "Casos sin resolver"
+ ],
+ "imagenes": [
+  {
+   "id": "billetes_tena_bar",
+   "archivo": "imagenes/CbPCfTXBvik/billetes_tena_bar.jpg",
+   "ancho": 1200,
+   "alto": 789,
+   "pie": "Billetes de veinte dólares del rescate hallados en Tena Bar en 1980, en una foto del FBI.",
+   "titulo": "Money stolen by D. B. Cooper",
+   "autor": "FBI",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Money_stolen_by_D._B._Cooper.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "billete_avion",
+   "archivo": "imagenes/CbPCfTXBvik/billete_avion.jpg",
+   "ancho": 1200,
+   "alto": 685,
+   "pie": "Billete del vuelo 305 de Portland a Seattle a nombre de Dan Cooper, del 24 de noviembre de 1971. Lo conserva el FBI.",
+   "titulo": "July 2016 D.B. Cooper Plane Ticket (28379315406)",
+   "autor": "Federal Bureau of Investigation (FBI)",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:July_2016_D.B._Cooper_Plane_Ticket_(28379315406).jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "retratos_robot_fbi",
+   "archivo": "imagenes/CbPCfTXBvik/retratos_robot_fbi.jpg",
+   "ancho": 1037,
+   "alto": 810,
+   "pie": "Dos retratos robot del secuestrador dibujados por el FBI entre 1971 y 1973.",
+   "titulo": "FBI artist rendering of so-called D.B. Cooper",
+   "autor": "Federal Bureau of Investigation",
+   "licencia": "Dominio público (obra del Gobierno federal de EE. UU.)",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+   "institucion": "Federal Bureau of Investigation"
+  },
+  {
+   "id": "lista_series_1971",
+   "archivo": "imagenes/CbPCfTXBvik/lista_series_1971.jpg",
+   "ancho": 1200,
+   "alto": 797,
+   "pie": "Una página de la lista de números de serie de los billetes de veinte del rescate, en el expediente del FBI (29 de noviembre de 1971).",
+   "titulo": "D.B. Cooper Part 79",
+   "autor": "Federal Bureau of Investigation",
+   "licencia": "Public Domain Mark 1.0",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://vault.fbi.gov/D-B-Cooper%20/D.B.%20Cooper%20Part%2079/view",
+   "institucion": "Federal Bureau of Investigation (FBI Vault), copia en Internet Archive"
+  },
+  {
+   "id": "paracaidas_fbi",
+   "archivo": "imagenes/CbPCfTXBvik/paracaidas_fbi.jpg",
+   "ancho": 1200,
+   "alto": 667,
+   "pie": "Uno de los paracaídas que pidió el secuestrador y que no se usaron, en una foto del FBI.",
+   "titulo": "One of the unused parachutes requested but never used in the FBI's so-called NORJAK case.",
+   "autor": "Federal Bureau of Investigation",
+   "licencia": "Dominio público (obra del Gobierno federal de EE. UU.)",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://www.fbi.gov/history/famous-cases/db-cooper-hijacking",
+   "institucion": "Federal Bureau of Investigation"
+  },
+  {
+   "id": "727_escalera",
+   "archivo": "imagenes/CbPCfTXBvik/727_escalera.jpg",
+   "ancho": 764,
+   "alto": 482,
+   "pie": "Un Boeing 727 de Northwest con la escalera trasera bajada, en 1975. No es el avión del secuestro, sino otro del mismo modelo.",
+   "titulo": "Northwest Boeing 727 airstair (1975)",
+   "autor": "Robert Rynerson from Denver, U.S.A.",
+   "licencia": "CC BY 2.5",
+   "urlLicencia": "https://commons.wikimedia.org/wiki/File:Northwest_Boeing_727_airstair_(1975).jpg",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Northwest_Boeing_727_airstair_(1975).jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "scirep_diatomeas",
+   "archivo": "imagenes/CbPCfTXBvik/scirep_diatomeas.jpg",
+   "ancho": 927,
+   "alto": 1200,
+   "pie": "Diatomeas al microscopio, de la figura 2 del estudio de Tom Kaye y Mark Meltzer sobre un billete de Tena Bar (Scientific Reports, 2020).",
+   "titulo": "Figure 2",
+   "autor": "Thomas G. Kaye y Mark Meltzer",
+   "licencia": "CC BY 4.0",
+   "urlLicencia": "https://creativecommons.org/licenses/by/4.0/",
+   "ficha": "https://www.nature.com/articles/s41598-020-70015-z/figures/2",
+   "institucion": "Scientific Reports (Nature Portfolio)"
+  }
+ ],
+ "transcripcion": [
+  {
+   "t": 0.6,
+   "texto": "Estos billetes son la única prueba confirmada del secuestro de D. B. Cooper encontrada fuera del avión."
+  },
+  {
+   "t": 11.9,
+   "texto": "Los desenterró un niño, ocho años después, en una playa. Y para llegar allí desde donde buscaban a Cooper, el río tendría que haberlos llevado corriente arriba."
+  },
+  {
+   "t": 45.5,
+   "texto": "Portland, veinticuatro de noviembre de mil novecientos setenta y uno. Un hombre compra en efectivo un billete solo de ida a Seattle, a nombre de Dan Cooper. Lo de D. B. fue un error de la prensa."
+  },
+  {
+   "t": 62,
+   "texto": "Es el vuelo trescientos cinco de Northwest Orient. Poco después del despegue, Cooper pasa una nota a una azafata."
+  },
+  {
+   "t": 72.8,
+   "texto": "Dice que lleva una bomba en el maletín. Lo abre y le enseña cables y unos cilindros rojos. Exige doscientos mil dólares y cuatro paracaídas."
+  },
+  {
+   "t": 89,
+   "texto": "En tierra, el rescate se prepara en diez mil billetes de veinte dólares. Antes de entregarlos, se microfilman sus números de serie."
+  },
+  {
+   "t": 102.9,
+   "texto": "En Seattle, Cooper cambia a los pasajeros por el dinero y los paracaídas, y ordena despegar de nuevo, rumbo a México."
+  },
+  {
+   "t": 113.5,
+   "texto": "Pide volar despacio y bajo, con el tren fuera y la cabina sin presurizar. Repostarán en Reno."
+  },
+  {
+   "t": 123.5,
+   "texto": "La azafata Tina Mucklow es la última que lo ve. Según contó, él se estaba atando a la cintura algo que parecía la bolsa del dinero."
+  },
+  {
+   "t": 137.4,
+   "texto": "Poco después de las ocho de la noche, Cooper baja la escalera trasera con el avión en vuelo. Nadie lo ve saltar. En Reno, el avión aterriza con la escalera bajada. Cooper no está a bordo."
+  },
+  {
+   "t": 154.6,
+   "texto": "¿Dónde saltó? La primera estimación lo sitúa en el suroeste de Washington, en la cuenca del río Lewis. El FBI nunca fijó el punto exacto."
+  },
+  {
+   "t": 169.6,
+   "texto": "En la primavera siguiente, agentes y soldados peinan la zona durante semanas. Nada. Los números de serie se reparten por todo el mundo. No consta que apareciera ni uno solo."
+  },
+  {
+   "t": 185.2,
+   "texto": "Domingo, diez de febrero de mil novecientos ochenta. Brian Ingram, un niño de ocho años, alisa la arena para una hoguera en Tena Bar, una playa del río Columbia."
+  },
+  {
+   "t": 201.2,
+   "texto": "Debajo aparecen tres fajos de billetes de veinte, atados aún con gomas que se deshacen al tocarlas: dos de cien billetes y uno de noventa. Cinco mil ochocientos dólares."
+  },
+  {
+   "t": 218.5,
+   "texto": "Siguen en el mismo orden en que se entregaron a Cooper. El FBI los compara con el microfilm. Los números coinciden."
+  },
+  {
+   "t": 229.9,
+   "texto": "Están a poca profundidad, sin rastro de la bolsa. El FBI excava la playa: solo salen fragmentos del tamaño de una moneda."
+  },
+  {
+   "t": 244.2,
+   "texto": "El río que baja de la zona del salto, el Lewis, desemboca en el Columbia río abajo de Tena Bar. Para llegar allí, el dinero tendría que remontar el Columbia, y el agente del FBI que dirigía la excavación lo vio improbable."
+  },
+  {
+   "t": 262.8,
+   "texto": "Ese mismo febrero, un hidrólogo del Ejército señaló el único afluente que podría explicarlo: el Washougal, que desemboca río arriba de Tena Bar."
+  },
+  {
+   "t": 277.8,
+   "texto": "Tras el hallazgo, en el FBI hubo quien apuntó allí el salto. Eso resolvería el mapa, no la fecha."
+  },
+  {
+   "t": 289.7,
+   "texto": "Ralph Himmelsbach, el agente que llevaba el caso en Portland, lo explicaba así: la bolsa quedó junto a un arroyo, una crecida la arrastró y el río fue limando los billetes hasta dejar solo el centro."
+  },
+  {
+   "t": 305.5,
+   "texto": "Hay otras teorías: que Cooper cayó al agua con el dinero esa misma noche, o que alguien lo enterró allí, quizá para despistar. Cada una pide una fecha distinta."
+  },
+  {
+   "t": 321.3,
+   "texto": "La primera pista son las gomas: seguían atadas. Según Himmelsbach, si los fajos bajaron por el río, llegaron a la orilla en un par de años desde el secuestro; con más tiempo, las gomas se habrían deshecho. Como muy tarde, hacia mil novecientos setenta y tres."
+  },
+  {
+   "t": 342.9,
+   "texto": "Años después, el equipo del paleontólogo Tom Kaye probó gomas como aquellas: no duraron ni un año. Para ellos, el dinero quedó enterrado en la playa el primer año tras el secuestro."
+  },
+  {
+   "t": 357.9,
+   "texto": "La segunda pista es la arena. En mil novecientos setenta y cuatro, una draga vertió sobre Tena Bar arena del fondo del río. Hay quien cree que con ella llegaron los fajos."
+  },
+  {
+   "t": 375.1,
+   "texto": "Tras el hallazgo, un geólogo encontró bajo el dinero una capa de arcilla que atribuyó al dragado, y entre ambos, más capas de arena. Para él, el dinero llegó bastante después de mil novecientos setenta y cuatro."
+  },
+  {
+   "t": 392.8,
+   "texto": "El equipo de Kaye también lo discutió: según ellos, la arcilla era natural, y el dinero estaba fuera del dragado."
+  },
+  {
+   "t": 403.6,
+   "texto": "La tercera pista es microscópica. En dos mil veinte, Kaye y un colega hallaron en un billete diatomeas, unas algas, y entre ellas una especie que en el Columbia abunda en mayo y junio."
+  },
+  {
+   "t": 420.8,
+   "texto": "Según ellos, el billete se mojó en esa época, no en noviembre: no cayó al agua la noche del salto. Esta pista da una estación, no un año. Y descarta, dicen, que alguien lo enterrara seco."
+  },
+  {
+   "t": 437.9,
+   "texto": "Eso sí: el estudio analiza un solo billete, con un método nuevo."
+  },
+  {
+   "t": 445.3,
+   "texto": "Teoría a teoría. Si lo trajo el río, esa teoría pide años de viaje, y las gomas del equipo de Kaye no duraron ni uno. Esa teoría tampoco explica tres fajos juntos, sin bolsa y con diez billetes de menos."
+  },
+  {
+   "t": 463.1,
+   "texto": "Si lo trajo la draga, el geólogo lo situó después, y según Kaye las gomas no habrían aguantado. Si cayó al agua con Cooper, las algas dicen que no: era noviembre. Y si alguien lo enterró, dicen que antes se mojó."
+  },
+  {
+   "t": 481.2,
+   "texto": "En dos mil dieciséis, el FBI dejó de investigar activamente. Del rescate faltan más de ciento noventa y cuatro mil dólares."
+  },
+  {
+   "t": 493.2,
+   "texto": "Lo que queda son estos billetes, limados hasta el centro. Tres pistas después, ninguna teoría sale entera. Y nadie sabe cómo llegaron a esa playa, ni qué fue del hombre que los llevaba."
+  }
+ ],
+ "en": {
+  "titulo": "D. B. Cooper: the bills a boy dug up in 1980",
+  "resumen": "In February 1980, an eight-year-old boy dug up $5,800 of the ransom D. B. Cooper had parachuted with in November 1971 at Tena Bar, a beach on the Columbia River in Washington state. They are the only confirmed evidence of the hijacking found outside the plane, and the river that drains the area where he was searched for flows into the Columbia downstream of that beach. The rubber bands, the sand and some microscopic algae try to date when that money arrived there; as for how it got there, no theory has been proven.",
+  "capitulos": [
+   "Bills in the sand",
+   "Portland, 1971: Flight 305",
+   "The rear stairs",
+   "Tena Bar, 1980",
+   "Against the current",
+   "First clue: the rubber bands",
+   "Second clue: the sand",
+   "Third clue: the algae",
+   "Theory by theory",
+   "What is missing"
+  ],
+  "transcripcion": [
+   "These bills are the only confirmed evidence of D. B. Cooper's hijacking found outside the plane.",
+   "A boy dug them up, eight years later, on a beach. And to get there from where they were searching for Cooper, the river would have had to carry them upstream.",
+   "Portland, November 24, 1971. A man pays cash for a one-way ticket to Seattle, under the name Dan Cooper. The \"D. B.\" was a mistake by the press.",
+   "It is Northwest Orient Flight 305. Shortly after takeoff, Cooper hands a note to a flight attendant.",
+   "It says he has a bomb in his briefcase. He opens it and shows her wires and some red cylinders. He demands $200,000 and four parachutes.",
+   "On the ground, the ransom is prepared in 10,000 twenty-dollar bills. Before they are handed over, their serial numbers are recorded on microfilm.",
+   "In Seattle, Cooper exchanges the passengers for the money and the parachutes, and orders the plane to take off again, bound for Mexico.",
+   "He asks them to fly slow and low, with the landing gear down and the cabin unpressurized. They will refuel in Reno.",
+   "Flight attendant Tina Mucklow is the last to see him. According to her, he was tying something that looked like the money bag around his waist.",
+   "Shortly after eight in the evening, Cooper lowers the rear stairs while the plane is in flight. No one sees him jump. In Reno, the plane lands with the stairs down. Cooper is not on board.",
+   "Where did he jump? The first estimate places him in southwest Washington, in the Lewis River basin. The FBI never pinned down the exact spot.",
+   "The following spring, agents and soldiers comb the area for weeks. Nothing. The serial numbers are circulated around the world. There is no record of a single one turning up.",
+   "Sunday, February 10, 1980. Brian Ingram, an eight-year-old boy, is smoothing the sand for a campfire at Tena Bar, a beach on the Columbia River.",
+   "Underneath, three bundles of twenties appear, still held by rubber bands that crumble at the touch: two of 100 bills and one of 90. $5,800.",
+   "They are still in the same order in which they were handed to Cooper. The FBI checks them against the microfilm. The numbers match.",
+   "They lie just below the surface, with no trace of the bag. The FBI digs up the beach: only coin-sized fragments turn up.",
+   "The river that flows down from the jump area, the Lewis, joins the Columbia downstream of Tena Bar. To get there, the money would have had to travel up the Columbia, and the FBI agent leading the dig thought it unlikely.",
+   "That same February, an Army hydrologist pointed to the only tributary that could explain it: the Washougal, which joins the Columbia upstream of Tena Bar.",
+   "After the find, some in the FBI pointed to it as the jump site. That would solve the map, not the date.",
+   "Ralph Himmelsbach, the agent in charge of the case in Portland, explained it this way: the bag ended up beside a creek, a flood swept it away, and the river wore the bills down until only the centers were left.",
+   "There are other theories: that Cooper fell into the water with the money that same night, or that someone buried it there, perhaps to throw investigators off. Each one requires a different date.",
+   "The first clue is the rubber bands: they were still tied. According to Himmelsbach, if the bundles came down the river, they reached the shore within a couple of years of the hijacking; any longer, and the bands would have fallen apart. Around 1973 at the latest.",
+   "Years later, paleontologist Tom Kaye's team tested rubber bands like those: they did not last even a year. In their view, the money was buried on the beach within the first year after the hijacking.",
+   "The second clue is the sand. In 1974, a dredge dumped sand from the riverbed onto Tena Bar. Some believe the bundles arrived with it.",
+   "After the find, a geologist found a layer of clay beneath the money that he attributed to the dredging, and between the two, more layers of sand. In his view, the money arrived well after 1974.",
+   "Kaye's team disputed that too: according to them, the clay was natural, and the money lay outside the dredged sand.",
+   "The third clue is microscopic. In 2020, Kaye and a colleague found diatoms, a kind of algae, on one bill, including a species that is abundant in the Columbia in May and June.",
+   "According to them, the bill got wet at that time of year, not in November: it did not go into the water the night of the jump. This clue gives a season, not a year. And it rules out, they say, that someone buried it dry.",
+   "One caveat: the study analyzes a single bill, using a new method.",
+   "Theory by theory. If the river brought it, that theory requires years of travel, and the rubber bands in Kaye's team's tests did not last even one. That theory also fails to explain three bundles together, with no bag and ten bills missing.",
+   "If the dredge brought it, the geologist dated it later, and according to Kaye the bands would not have held. If it fell into the water with Cooper, the algae say no: it was November. And if someone buried it, they say it got wet first.",
+   "In 2016, the FBI stopped actively investigating. More than $194,000 of the ransom is still missing.",
+   "What remains are these bills, worn down to the center. Three clues later, no theory comes out intact. And no one knows how they reached that beach, or what became of the man who was carrying them."
+  ],
+  "cronologia": [
+   "In Portland, a man calling himself Dan Cooper boards Northwest Orient Flight 305, says he has a bomb and demands $200,000 and four parachutes.",
+   "With the ransom on board, he lowers the plane's rear stairs in flight shortly after eight in the evening. The plane lands in Reno without him.",
+   "In the spring, FBI agents and soldiers comb the jump area for weeks and find nothing; the ransom serial numbers are made public.",
+   "A dredge dumps sand from the riverbed onto Tena Bar, a beach on the Columbia River.",
+   "Before the statute of limitations runs out, a Portland grand jury formally indicts \"John Doe, aka Dan Cooper\".",
+   "On the 10th, Brian Ingram, an eight-year-old boy, digs up three bundles of twenties at Tena Bar: $5,800 of the ransom, as the FBI confirms against the microfilm.",
+   "An Army hydrologist points to the Washougal as the only possible tributary, and geologist Leonard Palmer places the money's arrival after the 1974 dredging.",
+   "After 45 years, the FBI stops actively investigating the case. More than $194,000 of the ransom is still missing.",
+   "Tom Kaye and Mark Meltzer publish in Scientific Reports the diatoms found on one bill: they suggest it got wet in May or June, not in November."
+  ],
+  "preguntas": [
+   {
+    "pregunta": "Who was D. B. Cooper?",
+    "respuesta": "It is the name given to the man who hijacked Northwest Orient Flight 305 on November 24, 1971. His ticket was issued to Dan Cooper; the \"D. B.\" was a mistake by the press. He was never identified: it is the only documented unsolved hijacking in commercial aviation."
+   },
+   {
+    "pregunta": "What was found at Tena Bar in 1980?",
+    "respuesta": "On February 10, 1980, eight-year-old Brian Ingram dug up three bundles of twenty-dollar bills, still held by rubber bands, at Tena Bar, a beach on the Columbia River: $5,800 whose serial numbers matched the ransom. It is the only confirmed evidence of the hijacking found outside the plane."
+   },
+   {
+    "pregunta": "Why is it surprising that the money turned up at Tena Bar?",
+    "respuesta": "The Lewis River, which drains the first estimated jump area, joins the Columbia downstream of Tena Bar, so its current does not explain the find. An Army Corps of Engineers hydrologist pointed to the Washougal, which joins upstream, as the only tributary that could explain it."
+   },
+   {
+    "pregunta": "When did D. B. Cooper's money reach the beach?",
+    "respuesta": "No one knows, and the clues disagree. According to agent Ralph Himmelsbach, the intact rubber bands mean that, if the bundles came down the river, they arrived around 1973 at the latest; Tom Kaye's team of independent researchers concludes the money was buried within the first year. Geologist Leonard Palmer, on the other hand, placed it well after the 1974 dredging."
+   },
+   {
+    "pregunta": "What do the diatoms found on the bills say?",
+    "respuesta": "In 2020, Tom Kaye and Mark Meltzer found diatoms on one bill from a species that is abundant in the Columbia in May and June. According to their study, they suggest the bill got wet at that time of year and not on the night of the hijacking, in November. They analyzed a single bill, with a method used for the first time."
+   },
+   {
+    "pregunta": "Is the D. B. Cooper case still open?",
+    "respuesta": "In July 2016 the FBI stopped actively investigating the case, although it asks to be given any physical evidence about the parachutes or the money. More than $194,000 of the $200,000 ransom has never been found."
+   }
+  ],
+  "temas": [
+   "D. B. Cooper",
+   "Airplane hijackings",
+   "FBI",
+   "Columbia River",
+   "Unsolved cases"
+  ],
+  "pies": [
+   "Twenty-dollar ransom bills found at Tena Bar in 1980, in an FBI photo.",
+   "Flight 305 ticket from Portland to Seattle issued to Dan Cooper, dated November 24, 1971. It is kept by the FBI.",
+   "Two composite sketches of the hijacker drawn by the FBI between 1971 and 1973.",
+   "A page from the list of serial numbers of the ransom twenties, in the FBI file (November 29, 1971).",
+   "One of the parachutes the hijacker requested that went unused, in an FBI photo.",
+   "A Northwest Boeing 727 with its rear stairs down, in 1975. It is not the hijacked plane, but another of the same model.",
+   "Diatoms under the microscope, from Figure 2 of Tom Kaye and Mark Meltzer's study of a Tena Bar bill (Scientific Reports, 2020)."
+  ]
+ }
+}
